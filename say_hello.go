@@ -1,6 +1,6 @@
 package gosayhello
 
-func sayhello(value string) string {
+func SayHello(value string) string {
 	return "hello" + value
 }
 
